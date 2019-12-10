@@ -3,6 +3,7 @@ picoCTF
 OverTheWire
 UnderTheWire
 HackTheBox
+https://microcorruption.com/login
 
 Coding Challenges:
 http://www.pythonchallenge.com/
@@ -27,9 +28,43 @@ Create a set of increasingly difficult hashing challenges:
 8 salted, peppered, iterated - 
 
 
-Reverse Engineering
+Reverse Engineering (crackmes)
 https://crackmes.one/
+https://wiki.bytecode.club/CrackMes
+https://challenges.re/
+Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-me-material
+    https://pwnable.xyz/
+    https://crackmes.one
+    https://tuts4you.com/download.php?list.17
+    https://github.com/fdivrp/awesome-reversing/
+    https://github.com/michalmalik/linux-re-101
+    https://tuts4you.com/download.php
+    http://jackson.thuraisamy.me/re-resources.html
+    https://github.com/RPISEC/MBE
+    https://github.com/Maijin/Workshop2015/tree/master/IOLI-crackme
+    https://hackcenter.com/sign-in
+    https://www.root-me.org/en/Challenges/Cracking/
+    https://www.wechall.net/active_sites
+    http://www.wechall.net/challs/
+    https://challenges.re/
+    https://github.com/s7ephen/CSAW_2009
+    https://github.com/isislab/Hack-Night/tree/master/2013-Fall#week-6-reverse-engineering-part-1
+    http://pwnable.kr/
+    https://w3challs.com/
+    http://io.netgarage.org/
+    http://rogerfm.net/challenge/crackme/index.htm
+    https://gironsec.com/cactuscon_re_challenges/index.php
+    https://cryptocult.wordpress.com/cyber-challenges/
+    http://www.reteam.org/challenges.html
+    https://github.com/rshipp/awesome-malware-analysis
+    http://crackmes.cf
+    https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027
 
+Crypto Challenges
+https://cryptopals.com/
+http://overthewire.org/wargames/krypton/
+https://www.root-me.org/en/Challenges/Cryptanalysis/
+https://www.mysterytwisterc3.org/en/
 
 PACKET Challenges:
 https://blog.webernetz.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch/
