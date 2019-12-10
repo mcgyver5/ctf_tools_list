@@ -4,6 +4,29 @@ OverTheWire
 UnderTheWire
 HackTheBox
 
+Coding Challenges:
+http://www.pythonchallenge.com/
+http://www.pythonchallenge.com/pc/def/map.html
+https://projecteuler.net/
+
+
+Web Challenges:
+https://www2.owasp.org/www-project-juice-shop/
+WebGoat
+NetGoat
+
+Idea:
+Create a set of increasingly difficult hashing challenges:
+1 - basic hash you can lookup online
+2 - MD5 Hash you can crack with hashcat or John in seconds
+3 - Salted Hashes
+4 - Salted, iterated hashes - SHA256
+5 Hashes you must capture from /etc/passwd or similar
+6 hashes you capture from sqlmap
+7 Hashes made from password length and complexity rules:  instead of "password" user would use "Pa$$w0rd1" or so.
+8 salted, peppered, iterated - 
+
+
 Reverse Engineering
 https://crackmes.one/
 
@@ -11,6 +34,7 @@ https://crackmes.one/
 PACKET Challenges:
 https://blog.webernetz.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch/
 https://www.netresec.com/?page=PcapFiles
+https://forensicscontest.com/puzzles
 
 Paid Resources:
 Pentest Academy
