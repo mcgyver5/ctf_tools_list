@@ -6,6 +6,13 @@ HackTheBox
 https://www.hackthissite.org/pages/index/index.php
 https://microcorruption.com/login
 smashthestack.org
+https://ringzer0ctf.com/
+
+enigmagroup.org  (untested)  Site is up.  unclear if it is free or paid)
+https://defendtheweb.net/?hackthis  (an interactive Cyber security platform)<== registration required.  many articles and a playground with challenges
+https://www.root-me.org/?lang=en  (free and paid accounts)
+http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error 
+http://www.try2hack.nl/  warned away by google safe surfing.   Site seems to be up, though and has challenges
 
 Coding Challenges:
 [http://www.pythonchallenge.com/](http://www.pythonchallenge.com/) 
@@ -17,7 +24,8 @@ https://www2.owasp.org/www-project-juice-shop/
 WebGoat
 NetGoat
 https://github.com/stripe-ctf/stripe-ctf-2.0  <-- Source Code for a Series of web challenges used in a CTF in 2012
-
+http://google-gruyere.appspot.com/
+https://github.com/webpwnized/mutillidae mutillidae is an open source PHP Application made deliberately vulnerable.
 
 Reverse Engineering (crackmes)
 https://crackmes.one/
