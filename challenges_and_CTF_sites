@@ -31,13 +31,13 @@ Create a set of increasingly difficult hashing challenges:
 Reverse Engineering (crackmes)
 https://crackmes.one/
 https://wiki.bytecode.club/CrackMes
-https://challenges.re/
-Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-me-material
+https://challenges.re/  
+Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-me-material and validated to make sure links were still alive
     https://pwnable.xyz/
-    https://crackmes.one
+    https://crackmes.one  
     https://tuts4you.com/download.php?list.17
-    https://github.com/fdivrp/awesome-reversing/
-    https://github.com/michalmalik/linux-re-101
+    https://github.com/fdivrp/awesome-reversing/  (this is a very complete list of resources)
+    https://github.com/michalmalik/linux-re-101   (this is a list of articles and tutorials)
     https://tuts4you.com/download.php
     http://jackson.thuraisamy.me/re-resources.html
     https://github.com/RPISEC/MBE
@@ -46,7 +46,7 @@ Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-m
     https://www.root-me.org/en/Challenges/Cracking/
     https://www.wechall.net/active_sites
     http://www.wechall.net/challs/
-    https://challenges.re/
+    https://challenges.re/  y
     https://github.com/s7ephen/CSAW_2009
     https://github.com/isislab/Hack-Night/tree/master/2013-Fall#week-6-reverse-engineering-part-1
     http://pwnable.kr/
@@ -57,7 +57,7 @@ Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-m
     https://cryptocult.wordpress.com/cyber-challenges/
     http://www.reteam.org/challenges.html
     https://github.com/rshipp/awesome-malware-analysis
-    http://crackmes.cf
+    http://crackmes.cf  (mirror of crackmes.de and so mostly duplicates of crackmes.one) 
     https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027
 
 Crypto Challenges
@@ -70,6 +70,7 @@ PACKET Challenges:
 https://blog.webernetz.net/wireshark-layer-2-3-pcap-analysis-w-challenges-ccnp-switch/
 https://www.netresec.com/?page=PcapFiles
 https://forensicscontest.com/puzzles
+https://www.malware-traffic-analysis.net/2019/12/03/index.html
 
 Paid Resources:
 Pentest Academy
