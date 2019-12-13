@@ -9,3 +9,6 @@ Audacity
 SSTV decoder 
 multimon-ng
 
+SAMPLES:
+Binaries
+https://github.com/JonathanSalwan/binary-samples  (binary samples from many architectures to check detection tools) 
