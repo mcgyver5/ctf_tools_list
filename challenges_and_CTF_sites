@@ -3,6 +3,7 @@ picoCTF
 OverTheWire
 UnderTheWire
 HackTheBox
+https://www.hackthissite.org/pages/index/index.php
 https://microcorruption.com/login
 
 Coding Challenges:
@@ -15,6 +16,7 @@ Web Challenges:
 https://www2.owasp.org/www-project-juice-shop/
 WebGoat
 NetGoat
+https://github.com/stripe-ctf/stripe-ctf-2.0  <-- Source Code for a Series of web challenges used in a CTF in 2012
 
 Idea:
 Create a set of increasingly difficult hashing challenges:
@@ -38,27 +40,27 @@ Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-m
     https://tuts4you.com/download.php?list.17
     https://github.com/fdivrp/awesome-reversing/  (this is a very complete list of resources)
     https://github.com/michalmalik/linux-re-101   (this is a list of articles and tutorials)
-    https://tuts4you.com/download.php
-    http://jackson.thuraisamy.me/re-resources.html
-    https://github.com/RPISEC/MBE
-    https://github.com/Maijin/Workshop2015/tree/master/IOLI-crackme
-    https://hackcenter.com/sign-in
-    https://www.root-me.org/en/Challenges/Cracking/
-    https://www.wechall.net/active_sites
-    http://www.wechall.net/challs/
-    https://challenges.re/  y
-    https://github.com/s7ephen/CSAW_2009
-    https://github.com/isislab/Hack-Night/tree/master/2013-Fall#week-6-reverse-engineering-part-1
-    http://pwnable.kr/
-    https://w3challs.com/
-    http://io.netgarage.org/
+    https://tuts4you.com/download.php -- duplicate
+    http://jackson.thuraisamy.me/re-resources.html  blog.  Not actual challenges
+    https://github.com/RPISEC/MBE  Course materials including reversing challenges
+    https://github.com/Maijin/Workshop2015/tree/master/IOLI-crackme  (10 crackmes for windows, linux, PocketPC) 
+    https://hackcenter.com/sign-in   (hmmmm.  not sure if this one is being updated?)
+    https://www.root-me.org/en/Challenges/Cracking/  is alive but need to register and login
+    https://www.wechall.net/active_sites   (clearinghouse for listing challenge sites)
+    http://www.wechall.net/challs/  (clearinghouse)
+    https://challenges.re/  yes it is alive
+    https://github.com/s7ephen/CSAW_2009  Source code to the Reverse Engineering Challenges for the CSAW 2009 competition
+    https://github.com/isislab/Hack-Night/  large course that includes RE slides and challenges
+    http://pwnable.kr/   wargames starting with "Toddler's Bottle".  registration required.
+    https://w3challs.com/  Registration Required.  Cracking challenges plus other categories.
+    http://io.netgarage.org/  wargames basic, Special, Reversing, misc 
     http://rogerfm.net/challenge/crackme/index.htm
     https://gironsec.com/cactuscon_re_challenges/index.php
     https://cryptocult.wordpress.com/cyber-challenges/
-    http://www.reteam.org/challenges.html
-    https://github.com/rshipp/awesome-malware-analysis
+    http://www.reteam.org/challenges.html  mostly D34D no challenges found
+    https://github.com/rshipp/awesome-malware-analysis  Massive List of Malware analysis and security resources
     http://crackmes.cf  (mirror of crackmes.de and so mostly duplicates of crackmes.one) 
-    https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027
+    https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027  Nice Collection
 
 Crypto Challenges
 https://cryptopals.com/
