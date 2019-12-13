@@ -25,3 +25,6 @@ Learning to use Volatility
 Learning to shellcode
 
 
+Learning Reverse Engineering:
+http://www.jackson-t.ca/re-resources.html
+
