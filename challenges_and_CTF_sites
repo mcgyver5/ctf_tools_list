@@ -18,22 +18,12 @@ WebGoat
 NetGoat
 https://github.com/stripe-ctf/stripe-ctf-2.0  <-- Source Code for a Series of web challenges used in a CTF in 2012
 
-Idea:
-Create a set of increasingly difficult hashing challenges:
-1 - basic hash you can lookup online
-2 - MD5 Hash you can crack with hashcat or John in seconds
-3 - Salted Hashes
-4 - Salted, iterated hashes - SHA256
-5 Hashes you must capture from /etc/passwd or similar
-6 hashes you capture from sqlmap
-7 Hashes made from password length and complexity rules:  instead of "password" user would use "Pa$$w0rd1" or so.
-8 salted, peppered, iterated - 
-
 
 Reverse Engineering (crackmes)
 https://crackmes.one/
 https://wiki.bytecode.club/CrackMes
 https://challenges.re/  
+reversing.kr  (registration required) 
 Copied from https://reverseengineering.stackexchange.com/questions/15774/crack-me-material and validated to make sure links were still alive
     https://pwnable.xyz/
     https://crackmes.one  
