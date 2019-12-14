@@ -14,6 +14,15 @@ https://www.root-me.org/?lang=en  (free and paid accounts)
 http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error 
 http://www.try2hack.nl/  warned away by google safe surfing.   Site seems to be up, though and has challenges
 
+ShellCode Challenges:
+https://azeria-labs.com/part-3-stack-overflow-challenges/
+https://0xrick.github.io/binary-exploitation/bof5/
+https://www.xoru.net/bas-groothedde/article/picoctf-2018-writeup-shellcode-extended.html
+https://github.com/VulnHub/ctf-writeups/blob/master/2015/ringzer0/shellcoding.md
+https://medium.com/syscall59/solving-malwaretech-shellcode-challenges-with-some-radare2-magic-b91c85babe4b
+https://samsclass.info/127/proj/p3-lbuf1.htm
+http://security.cs.pub.ro/hexcellents/wiki/kb/exploiting/shellcode-walkthrough
+
 Coding Challenges:
 [http://www.pythonchallenge.com/](http://www.pythonchallenge.com/) 
 https://projecteuler.net/
