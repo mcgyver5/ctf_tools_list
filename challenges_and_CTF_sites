@@ -14,11 +14,20 @@ https://www.root-me.org/?lang=en  (free and paid accounts)
 http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error 
 http://www.try2hack.nl/  warned away by google safe surfing.   Site seems to be up, though and has challenges
 
+Video Games:
+http://elseheartbreak.com/  is a game in which you win by hacking into the computers in-universe.  It is very strange.
+
+List:
+https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
+
 FROM  DFIR (https://www.dfir.training/resources/downloads/ctf-forensic-test-images) 
 http://ae27ff.meme.tips/about.php
 https://www.ashemery.com/dfir.html
 https://www.binary-zone.com/2015/09/16/digital-forensic-challenge-4/  (instructions unclear but site seems up)
-
+https://attackdefense.com/
+https://github.com/ctfs/write-ups-2017/tree/master/bsidessf-ctf-2017/forensics/ximage-300
+https://github.com/cyphernix/challenges
+https://betweentwodfirns.blogspot.com/2016/06/forensic-ctf-bobs-chili-burgers-website.html
 
 ShellCode Challenges:
 https://azeria-labs.com/part-3-stack-overflow-challenges/
