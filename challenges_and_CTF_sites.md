@@ -1,23 +1,23 @@
-# Well known challenge sites for CTF Practice:
+# Challenge sites for CTF Practice:
 1. [picoCTF](https://picoctf.com/)
 2. [OverTheWire](https://overthewire.org/wargames/)
 3. [UnderTheWire](https://underthewire.tech/)
-5. https://www.hackthissite.org/pages/index/index.php
-6. https://microcorruption.com/login
-7. [Smash The Stack](http://smashthestack.org)
-8. https://ringzer0ctf.com/
-9. https://www.hellboundhackers.org/  <== this is a forum as well as hosting "simulated security challenges" 
-10. 
-11. https://defendtheweb.net/?hackthis  (an interactive Cyber security platform)<== registration required.  many articles and a playground with challenges
-12. https://www.root-me.org/?lang=en  (free and paid accounts)
-13. http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error 
-14. http://www.try2hack.nl/  warned away by google safe surfing.   Site seems to be up, though and has challenges
-15. Sans Holiday Hack Challenges: https://holidayhackchallenge.com/past-challenges/
-16. https://ringzer0ctf.com/challenges/
-17. [HackTheBox](https://www.hackthebox.eu/individuals) has a free membership level.
+4. [Hack This Site](https://www.hackthissite.org/pages/index/index.php)
+5. [Microcorruption](https://microcorruption.com/login)
+6. [Smash The Stack](http://smashthestack.org)
+7. https://defendtheweb.net/?hackthis  (an interactive Cyber security platform)<== registration required.  many articles and a playground with challenges
+8. https://www.root-me.org/?lang=en  (free and paid accounts) 
+9. [Sans Holiday Hack Challenges](https://holidayhackchallenge.com/past-challenges/)
+10. https://ringzer0ctf.com/challenges/
+11. [HackTheBox](https://www.hackthebox.eu/individuals) has a free membership level.
+
+# Other CTF and Security Challenge Sites:
+1. http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error
+2. http://www.try2hack.nl/  warned away by Google safe surfing.  Site seems to be up, though and has challenges
+3. https://www.hellboundhackers.org/  <== this is a forum as well as hosting "simulated security challenges"
 
 # Video Games:
-1. http://elseheartbreak.com/  is a game in which you win by hacking into the computers in-universe. 
+1. http://elseheartbreak.com/  is a hacking challenge of a game in which you win by hacking into the computers in-universe. 
 2. https://store.steampowered.com/app/469920/hackmud/
 
 
