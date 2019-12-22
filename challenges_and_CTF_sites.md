@@ -1,11 +1,11 @@
 # Well known challenge sites for CTF Practice:
 1. [picoCTF](https://picoctf.com/)
 2. [OverTheWire](https://overthewire.org/wargames/)
-3. UnderTheWire
-4. HackTheBox
+3. [UnderTheWire](https://underthewire.tech/)
+4.
 5. https://www.hackthissite.org/pages/index/index.php
 6. https://microcorruption.com/login
-7. smashthestack.org
+7. [Smash The Stack](http://smashthestack.org)
 8. https://ringzer0ctf.com/
 9. https://www.hellboundhackers.org/  <== this is a forum as well as hosting "simulated security challenges" 
 10. enigmagroup.org  (untested)  Site is up.  unclear if it is free or paid)
@@ -15,6 +15,7 @@
 14. http://www.try2hack.nl/  warned away by google safe surfing.   Site seems to be up, though and has challenges
 15. Sans Holiday Hack Challenges: https://holidayhackchallenge.com/past-challenges/
 16. https://ringzer0ctf.com/challenges/
+17. [HackTheBox](https://www.hackthebox.eu/individuals) has a free membership level.
 
 # Video Games:
 1. http://elseheartbreak.com/  is a game in which you win by hacking into the computers in-universe. 
@@ -132,3 +133,4 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
 Pentest Academy
 https://ctf365.com/  (limited access for one free user.  unlimited access = $46.00 per month for one user) 
 https://www.hacking-lab.com/  49 EUR for one year.  
+https://www.hackthebox.eu/individuals premium = 10 pounds per month
