@@ -2,13 +2,12 @@
 1. [picoCTF](https://picoctf.com/)
 2. [OverTheWire](https://overthewire.org/wargames/)
 3. [UnderTheWire](https://underthewire.tech/)
-4.
 5. https://www.hackthissite.org/pages/index/index.php
 6. https://microcorruption.com/login
 7. [Smash The Stack](http://smashthestack.org)
 8. https://ringzer0ctf.com/
 9. https://www.hellboundhackers.org/  <== this is a forum as well as hosting "simulated security challenges" 
-10. enigmagroup.org  (untested)  Site is up.  unclear if it is free or paid)
+10. 
 11. https://defendtheweb.net/?hackthis  (an interactive Cyber security platform)<== registration required.  many articles and a playground with challenges
 12. https://www.root-me.org/?lang=en  (free and paid accounts)
 13. http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error 
@@ -127,7 +126,8 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
 3. https://www.root-me.org/en/Challenges/Cryptanalysis/
 4. https://www.mysterytwisterc3.org/en/
 
-# PACKET Challenges:
+## Other
+1. enigmagroup.org  (untested)  Site is up.  unclear if it is free or paid)
 
 # Paid Resources:
 Pentest Academy
