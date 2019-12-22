@@ -14,9 +14,12 @@
 13. http://www.gameofhacks.com/game  - I just get a blank screen due to a javascript error 
 14. http://www.try2hack.nl/  warned away by google safe surfing.   Site seems to be up, though and has challenges
 15. Sans Holiday Hack Challenges: https://holidayhackchallenge.com/past-challenges/
+16. https://ringzer0ctf.com/challenges/
 
 # Video Games:
-http://elseheartbreak.com/  is a game in which you win by hacking into the computers in-universe.  It is very strange.
+1. http://elseheartbreak.com/  is a game in which you win by hacking into the computers in-universe. 
+2. https://store.steampowered.com/app/469920/hackmud/
+
 
 List:
 https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
