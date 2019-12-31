@@ -1,5 +1,8 @@
 ## Learning C:
 * https://github.com/h0mbre/Learning-C
+* http://c-faq.com/
+* https://hackr.io/tutorials/learn-c
+* https://www.youtube.com/watch?v=KJgsSFOSQv0
 
 ## Learning JavaScript:
 * https://www.khanacademy.org/computing
@@ -8,17 +11,25 @@
 
 
 ## Learning Java:
-* https://codingbat.com/java
+* https://codingbat.com/java  (series of exercises)
 * https://www.reddit.com/r/learnjava/
 * http://mooc.fi/courses/2013/programming-part-1/
-* https://see.stanford.edu/Course/CS106A
+* https://see.stanford.edu/Course/CS106A  (course is on programming methodology but happens to use Java and is very good)
 * http://courses.caveofprogramming.com/courses/java-for-complete-beginners
 
 
 ## Learning Python
 * https://pythonprinciples.com/
 
-## Learning ASM:
+## Learning Assembly:
+There are some assembly related challenges on CTFs.  Note that you don't learn assembly, you learn a platform 
+like TASM or NASM.
+* http://tomorrowcorporation.com/humanresourcemachine
+* http://store.steampowered.com/app/504210/ ( a game from zachtronics )
+* http://flint.cs.yale.edu/cs422/doc/art-of-asm/pdf/
+* http://insecure.org/stf/smashstack.html  (this may be the best resource for use with CTF challenges)
+* https://www.nand2tetris.org/  
+* http://store.steampowered.com/app/370360/  (another game from zachtronics)
 
 
 ## Learning to use Ghidra
@@ -26,14 +37,11 @@
 
 ## Learning to use Wireshark
 
-
 ## Learning to use Burp
-
 
 ## Learning to use Volatility
 
-
-## Learning to shellcode
+## Learning to solve shellcode challenges
 
 
 ## Learning Reverse Engineering:
