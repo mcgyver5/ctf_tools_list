@@ -55,6 +55,7 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
 1. [http://www.pythonchallenge.com/](http://www.pythonchallenge.com/) 
 2. https://projecteuler.net/
 3. https://www.reddit.com/r/dailyprogrammer/   
+4. https://alexnisnevich.github.io/untrusted/  (Javascript)
 
 # Web Challenges:
 1. https://www2.owasp.org/www-project-juice-shop/
