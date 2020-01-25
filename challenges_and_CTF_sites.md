@@ -123,6 +123,8 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
   * http://crackmes.cf  (mirror of crackmes.de and so mostly duplicates of crackmes.one) 
     
   * https://0x00sec.org/t/challenge-collection-reverse-engineering-and-crackme/3027  Nice Collection
+  
+  * https://github.com/holbertonschool/dont_hate_the_hacker_hate_the_code  (set of three crackmes that have a writeup 
 
 # Crypto Challenges
 1. https://cryptopals.com/
