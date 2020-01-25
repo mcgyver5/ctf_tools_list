@@ -46,5 +46,5 @@ like TASM or NASM.
 
 ## Learning Reverse Engineering:
 * http://www.jackson-t.ca/re-resources.html
-
+* https://medium.com/@rickharris_dev/reverse-engineering-using-linux-gdb-a99611ab2d32
 ## Editing ByteCode of an image:
