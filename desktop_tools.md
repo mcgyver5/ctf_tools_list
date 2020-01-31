@@ -8,20 +8,18 @@ CommandLine
 * pngcheck (for identifyingp problems in corrupted png files)
 * binwalk
 * volatility (for memory forensics)
-* 
-
-
-Ghidra
-ILSpy
-Java JDK
-Python
-Burp Community Edition
-pngcheck
-Wireshark / TShark
-Audacity
-SSTV decoder 
-binwalk
-multimon-ng
+* Radare (R2) 
+* Ghidra
+* ILSpy
+* Java JDK
+* Python
+* Burp Community Edition
+* pngcheck
+* Wireshark / TShark
+* Audacity
+* SSTV decoder 
+* binwalk
+* multimon-ng
 
 SAMPLES:
 Binaries
