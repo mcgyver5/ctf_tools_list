@@ -9,6 +9,7 @@ Genaral Skills and Forensics:
 * Wireshark
 * ILSpy
 * SSTV decoder 
+* Zenmap (NMAP Gui)
 
 ## CommandLine
 * tshark (gets installed w/ wireshark)
@@ -22,6 +23,13 @@ Genaral Skills and Forensics:
 * pngcheck
 * binwalk
 * multimon-ng
+* nmap
+* metasploit
+* netcat 
+* nikto
+* dirbuster 
+* Hashcat
+* John the ripper
 
 ## Tools written to automate some CTF Tasks:
 * pwntools
