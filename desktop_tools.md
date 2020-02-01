@@ -4,6 +4,7 @@ Genaral Skills and Forensics:
 * Gimp
 * Audacity
 * Ghidra
+* JDGUI
 * Burp Community Edition
 * Wireshark
 * ILSpy
