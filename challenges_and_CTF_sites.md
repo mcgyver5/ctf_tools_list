@@ -140,3 +140,4 @@ Pentest Academy
 https://ctf365.com/  (limited access for one free user.  unlimited access = $46.00 per month for one user) 
 https://www.hacking-lab.com/  49 EUR for one year.  
 https://www.hackthebox.eu/individuals premium = 10 pounds per month
+https://www.tryhackme.com  = $10.00 per month
