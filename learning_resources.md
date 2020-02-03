@@ -1,3 +1,27 @@
+## Getting Started:
+* https://reddit.com/r/HowToHack/comments/ewm1ax/a_complete_penetration_testing_hacking_tools_list/
+
+
+
+
+## Learning to use Ghidra
+
+
+## Learning to use Wireshark
+
+## Learning to use Burp
+
+## Learning to use Volatility
+
+## Learning to solve shellcode challenges
+
+
+## Learning Reverse Engineering:
+* http://www.jackson-t.ca/re-resources.html
+* https://medium.com/@rickharris_dev/reverse-engineering-using-linux-gdb-a99611ab2d32
+
+## Editing ByteCode of an image:
+
 ## Learning C:
 * https://github.com/h0mbre/Learning-C
 * http://c-faq.com/
@@ -30,21 +54,3 @@ like TASM or NASM.
 * http://insecure.org/stf/smashstack.html  (this may be the best resource for use with CTF challenges)
 * https://www.nand2tetris.org/  
 * http://store.steampowered.com/app/370360/  (another game from zachtronics)
-
-
-## Learning to use Ghidra
-
-
-## Learning to use Wireshark
-
-## Learning to use Burp
-
-## Learning to use Volatility
-
-## Learning to solve shellcode challenges
-
-
-## Learning Reverse Engineering:
-* http://www.jackson-t.ca/re-resources.html
-* https://medium.com/@rickharris_dev/reverse-engineering-using-linux-gdb-a99611ab2d32
-## Editing ByteCode of an image:
