@@ -30,6 +30,7 @@ Genaral Skills and Forensics:
 * dirbuster 
 * Hashcat
 * John the ripper
+* git-dumper  (for pulling git repository from a web site - as used in the Shrek Fans Only writeup https://spotless.tech/utctf-ctf-2020-shrek-fans-only.html)
 
 ## Tools written to automate some CTF Tasks:
 * pwntools
