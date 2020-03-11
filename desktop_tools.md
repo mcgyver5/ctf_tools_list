@@ -31,6 +31,7 @@ Genaral Skills and Forensics:
 * Hashcat
 * John the ripper
 * git-dumper  (for pulling git repository from a web site - as used in the Shrek Fans Only writeup https://spotless.tech/utctf-ctf-2020-shrek-fans-only.html)
+* crib-drag.py  (https://github.com/SpiderLabs/cribdrag) an interactive crib dragging tool for cryptanalysis on ciphertext generated with reused or predictable stream cipher keys (as used in the One True Problem writeup https://github.com/SemahBA/UTCTF-Writeups/tree/master/Cryptography/One%20True%20Problem
 
 ## Tools written to automate some CTF Tasks:
 * pwntools
