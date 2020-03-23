@@ -65,6 +65,7 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
 5. http://google-gruyere.appspot.com/
 6. https://github.com/webpwnized/mutillidae mutillidae is an open source PHP Application made deliberately vulnerable.
 7. https://portswigger.net/web-security  
+8. https://community.securityinnovation.com/access-the-cyber-range/  has a three day three trial for one of their cyber -ranges which is a social media site with lots of vulnerabilities.  It scores you as you uncover each vulnerability.
 
 # Reverse Engineering (crackmes)
 1. https://crackmes.one/
