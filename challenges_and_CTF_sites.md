@@ -21,6 +21,8 @@
 2. https://store.steampowered.com/app/469920/hackmud/
 3. https://tomorrowcorporation.com/humanresourcemachine  is a coding game that simulates coding in Assembly
 
+# Puzzle Sites:
+1. http://notpron.org/notpron/   Series of web page puzzles 
 
 List:
 https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
@@ -133,6 +135,10 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
 2. http://overthewire.org/wargames/krypton/
 3. https://www.root-me.org/en/Challenges/Cryptanalysis/
 4. https://www.mysterytwisterc3.org/en/
+
+# Hardware Hacking Challenges
+1. https://www.wired.com/2014/08/defcon-2014-badges-revealed/ Article about LostBoy, designer of DefCon's hackable badges
+
 
 ## Other
 1. enigmagroup.org  (untested)  Site is up.  unclear if it is free or paid)
