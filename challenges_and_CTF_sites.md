@@ -135,6 +135,7 @@ https://blog.infosec.business/hands-on-learning-resources-cybersecurity/
 2. http://overthewire.org/wargames/krypton/
 3. https://www.root-me.org/en/Challenges/Cryptanalysis/
 4. https://www.mysterytwisterc3.org/en/
+5. https://cryptohack.org/  <-- Very applicable to CTF Crypto Challenges.
 
 # Hardware Hacking Challenges
 1. https://www.wired.com/2014/08/defcon-2014-badges-revealed/ Article about LostBoy, designer of DefCon's hackable badges
