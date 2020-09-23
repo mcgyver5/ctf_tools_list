@@ -34,7 +34,7 @@ Genaral Skills and Forensics:
 * crib-drag.py  (https://github.com/SpiderLabs/cribdrag) an interactive crib dragging tool for cryptanalysis on ciphertext generated with reused or predictable stream cipher keys (as used in the One True Problem writeup https://github.com/SemahBA/UTCTF-Writeups/tree/master/Cryptography/One%20True%20Problem
 
 ## Tools written to automate some CTF Tasks:
-* pwntools
+* pwntools (see https://cryptohack.org/challenges/general/  #5 for example of using pwntools)
 * katana 
 
 SAMPLES:
