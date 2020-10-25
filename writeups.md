@@ -1,4 +1,4 @@
-These are a collection of write-ups (found in https://ctftime.org/event/list/ that are both clearly written and have concepts and tools that apply to a broad range of CTF challenges.
+These are a collection of write-ups (found in https://ctftime.org/event/list/) that are both clearly written and have concepts and tools that apply to a broad range of CTF challenges.
 
 
 ## Forensic / Steganography
