@@ -12,6 +12,7 @@ Genaral Skills and Forensics:
 * Zenmap (NMAP Gui)
 
 ## CommandLine
+* crunch (installed by default on Kali)
 * tshark (gets installed w/ wireshark)
 * pngcheck (for identifyingp problems in corrupted png files)
 * binwalk
@@ -28,8 +29,10 @@ Genaral Skills and Forensics:
 * netcat 
 * nikto
 * dirbuster 
-* Hashcat
-* John the ripper
+* Hashcat (prefered option if you have a gpu)
+* John the ripper (comes with the following tools
+** zip2john  (extracting password hashes from encrypted zip files)
+** office2john ( a python file for extracting password hashes from protected MS office documents)
 * git-dumper  (for pulling git repository from a web site - as used in the Shrek Fans Only writeup https://spotless.tech/utctf-ctf-2020-shrek-fans-only.html)
 * crib-drag.py  (https://github.com/SpiderLabs/cribdrag) an interactive crib dragging tool for cryptanalysis on ciphertext generated with reused or predictable stream cipher keys (as used in the One True Problem writeup https://github.com/SemahBA/UTCTF-Writeups/tree/master/Cryptography/One%20True%20Problem
 
