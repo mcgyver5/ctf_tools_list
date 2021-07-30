@@ -1,5 +1,6 @@
 ## Getting Started:
 * https://reddit.com/r/HowToHack/comments/ewm1ax/a_complete_penetration_testing_hacking_tools_list/
+* Live Overflow video series:  https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 
 
 
